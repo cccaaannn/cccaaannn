@@ -1,6 +1,6 @@
 # Hi, I am Can
 
-### I build open source projects to learn new stuff from all fields of the computer science .
+### I build open source projects to learn new stuff from all fields of the computer science.
 ---
 
 ## Technologies
