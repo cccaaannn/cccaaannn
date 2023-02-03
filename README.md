@@ -5,7 +5,7 @@
 
 ## Technologies
 
-<div>
+<div align="center">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75"/>
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75"/>
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75"/>
@@ -20,11 +20,12 @@
 
 ## Stats
 
-<div>
+<div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cccaaannn&theme=tokyonight&utcOffset=3" width="227"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cccaaannn&hide_border=true&theme=tokyonight" width="343"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cccaaannn&theme=tokyonight" width="227"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/cccaaannn/readme_media/master/profile-3d-contrib/profile-night-rainbow.svg" width="800"/>
-
+<div align="center">
+    <img src="https://raw.githubusercontent.com/cccaaannn/readme_media/master/profile-3d-contrib/profile-night-rainbow.svg" width="800"/>
+</div>
