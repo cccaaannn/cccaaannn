@@ -21,7 +21,7 @@
 ## Stats
 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cccaaannn&theme=tokyonight&utcOffset=3" width="227"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cccaaannn&theme=merko&utcOffset=3" width="227"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cccaaannn&hide_border=true&theme=merko" width="343"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cccaaannn&hide_border=true&layout=donut&theme=merko" width="227"/>
 </div>
