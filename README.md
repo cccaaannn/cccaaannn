@@ -27,5 +27,5 @@
 </div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/cccaaannn/readme_media/master/profile-3d-contrib/profile-night-rainbow.svg" width="800"/>
+    <img src="https://raw.githubusercontent.com/cccaaannn/readme_media/master/profile-3d-contrib/profile-night-green.svg" width="800"/>
 </div
