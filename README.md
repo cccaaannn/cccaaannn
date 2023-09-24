@@ -7,9 +7,9 @@
 
 <div align="center">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75"/>
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75"/>
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75"/>
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="75"/>
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75"/>
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75"/>
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75"/>
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="75"/>
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="75"/>
